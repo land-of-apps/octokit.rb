@@ -1,0 +1,4 @@
+name: octokit.rb
+
+packages:
+- path: lib
