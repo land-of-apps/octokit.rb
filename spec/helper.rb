@@ -9,7 +9,7 @@ if RUBY_ENGINE == 'ruby'
   SimpleCov.start
 end
 
-require 'appmap/json'
+require 'appmap/rspec'
 
 require 'json'
 require 'octokit'
