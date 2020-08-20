@@ -1,3 +1,5 @@
+require 'appmap/rspec'
+
 if RUBY_ENGINE == 'ruby'
   require 'simplecov'
   require 'coveralls'
