@@ -5,7 +5,7 @@ require 'octokit/version'
 
 Gem::Specification.new do |spec|
 
-  sepc.add_development_dependency 'appmap'
+  spec.add_development_dependency 'appmap'
 
   spec.add_development_dependency 'bundler', '>= 1', '< 3'
   spec.add_dependency 'sawyer', '>= 0.5.3', '~> 0.8.0'
